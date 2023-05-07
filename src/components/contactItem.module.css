@@ -1,0 +1,13 @@
+.contact {
+    max-width: 50rem;
+    margin: 2rem auto;
+    text-align: center;
+  }
+
+  .actions {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+  }
